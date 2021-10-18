@@ -1,0 +1,6 @@
+Opis kolumn dane oryginalne:
+country - kraj
+beer_servings - średnia objętość wypitych piw (w puszkach)
+spirit_servings - średnia objętość wypitych wysokoprocentowych alkoholi (w szotach)
+wine_servings - średnia objętość wypitych win (w kieliszkach)
+total_litres_of_pure_alcohol - średnia objętość wypitego czystego alkoholu (w litrach)

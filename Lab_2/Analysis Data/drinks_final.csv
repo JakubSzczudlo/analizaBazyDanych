@@ -1,0 +1,773 @@
+,country,type of alcohol,Amount
+0,Afghanistan,beer_portions,0.0
+1,Afghanistan,vodka_portions,0.0
+2,Afghanistan,wine_portions,0.0
+3,Afghanistan,total_litres_of_pure_alcohol,0.0
+4,Albania,beer_portions,89.0
+5,Albania,vodka_portions,132.0
+6,Albania,wine_portions,54.0
+7,Albania,total_litres_of_pure_alcohol,4.9
+8,Algeria,beer_portions,25.0
+9,Algeria,vodka_portions,0.0
+10,Algeria,wine_portions,14.0
+11,Algeria,total_litres_of_pure_alcohol,0.7
+12,Andorra,beer_portions,245.0
+13,Andorra,vodka_portions,138.0
+14,Andorra,wine_portions,312.0
+15,Andorra,total_litres_of_pure_alcohol,12.4
+16,Angola,beer_portions,217.0
+17,Angola,vodka_portions,57.0
+18,Angola,wine_portions,45.0
+19,Angola,total_litres_of_pure_alcohol,5.9
+20,Antigua & Barbuda,beer_portions,102.0
+21,Antigua & Barbuda,vodka_portions,128.0
+22,Antigua & Barbuda,wine_portions,45.0
+23,Antigua & Barbuda,total_litres_of_pure_alcohol,4.9
+24,Argentina,beer_portions,193.0
+25,Argentina,vodka_portions,25.0
+26,Argentina,wine_portions,221.0
+27,Argentina,total_litres_of_pure_alcohol,8.3
+28,Armenia,beer_portions,21.0
+29,Armenia,vodka_portions,179.0
+30,Armenia,wine_portions,11.0
+31,Armenia,total_litres_of_pure_alcohol,3.8
+32,Australia,beer_portions,261.0
+33,Australia,vodka_portions,72.0
+34,Australia,wine_portions,212.0
+35,Australia,total_litres_of_pure_alcohol,10.4
+36,Austria,beer_portions,279.0
+37,Austria,vodka_portions,75.0
+38,Austria,wine_portions,191.0
+39,Austria,total_litres_of_pure_alcohol,9.7
+40,Azerbaijan,beer_portions,21.0
+41,Azerbaijan,vodka_portions,46.0
+42,Azerbaijan,wine_portions,5.0
+43,Azerbaijan,total_litres_of_pure_alcohol,1.3
+44,Bahamas,beer_portions,122.0
+45,Bahamas,vodka_portions,176.0
+46,Bahamas,wine_portions,51.0
+47,Bahamas,total_litres_of_pure_alcohol,6.3
+48,Bahrain,beer_portions,42.0
+49,Bahrain,vodka_portions,63.0
+50,Bahrain,wine_portions,7.0
+51,Bahrain,total_litres_of_pure_alcohol,2.0
+52,Bangladesh,beer_portions,0.0
+53,Bangladesh,vodka_portions,0.0
+54,Bangladesh,wine_portions,0.0
+55,Bangladesh,total_litres_of_pure_alcohol,0.0
+56,Barbados,beer_portions,143.0
+57,Barbados,vodka_portions,173.0
+58,Barbados,wine_portions,36.0
+59,Barbados,total_litres_of_pure_alcohol,6.3
+60,Belarus,beer_portions,142.0
+61,Belarus,vodka_portions,373.0
+62,Belarus,wine_portions,42.0
+63,Belarus,total_litres_of_pure_alcohol,14.4
+64,Belgium,beer_portions,295.0
+65,Belgium,vodka_portions,84.0
+66,Belgium,wine_portions,212.0
+67,Belgium,total_litres_of_pure_alcohol,10.5
+68,Belize,beer_portions,263.0
+69,Belize,vodka_portions,114.0
+70,Belize,wine_portions,8.0
+71,Belize,total_litres_of_pure_alcohol,6.8
+72,Benin,beer_portions,34.0
+73,Benin,vodka_portions,4.0
+74,Benin,wine_portions,13.0
+75,Benin,total_litres_of_pure_alcohol,1.1
+76,Bhutan,beer_portions,23.0
+77,Bhutan,vodka_portions,0.0
+78,Bhutan,wine_portions,0.0
+79,Bhutan,total_litres_of_pure_alcohol,0.4
+80,Bolivia,beer_portions,167.0
+81,Bolivia,vodka_portions,41.0
+82,Bolivia,wine_portions,8.0
+83,Bolivia,total_litres_of_pure_alcohol,3.8
+84,Bosnia-Herzegovina,beer_portions,76.0
+85,Bosnia-Herzegovina,vodka_portions,173.0
+86,Bosnia-Herzegovina,wine_portions,8.0
+87,Bosnia-Herzegovina,total_litres_of_pure_alcohol,4.6
+88,Botswana,beer_portions,173.0
+89,Botswana,vodka_portions,35.0
+90,Botswana,wine_portions,35.0
+91,Botswana,total_litres_of_pure_alcohol,5.4
+92,Brazil,beer_portions,245.0
+93,Brazil,vodka_portions,145.0
+94,Brazil,wine_portions,16.0
+95,Brazil,total_litres_of_pure_alcohol,7.2
+96,Brunei,beer_portions,31.0
+97,Brunei,vodka_portions,2.0
+98,Brunei,wine_portions,1.0
+99,Brunei,total_litres_of_pure_alcohol,0.6
+100,Bulgaria,beer_portions,231.0
+101,Bulgaria,vodka_portions,252.0
+102,Bulgaria,wine_portions,94.0
+103,Bulgaria,total_litres_of_pure_alcohol,10.3
+104,Burkina Faso,beer_portions,25.0
+105,Burkina Faso,vodka_portions,7.0
+106,Burkina Faso,wine_portions,7.0
+107,Burkina Faso,total_litres_of_pure_alcohol,4.3
+108,Burundi,beer_portions,88.0
+109,Burundi,vodka_portions,0.0
+110,Burundi,wine_portions,0.0
+111,Burundi,total_litres_of_pure_alcohol,6.3
+112,Cote d'Ivoire,beer_portions,37.0
+113,Cote d'Ivoire,vodka_portions,1.0
+114,Cote d'Ivoire,wine_portions,7.0
+115,Cote d'Ivoire,total_litres_of_pure_alcohol,4.0
+116,Cabo Verde,beer_portions,144.0
+117,Cabo Verde,vodka_portions,56.0
+118,Cabo Verde,wine_portions,16.0
+119,Cabo Verde,total_litres_of_pure_alcohol,4.0
+120,Cambodia,beer_portions,57.0
+121,Cambodia,vodka_portions,65.0
+122,Cambodia,wine_portions,1.0
+123,Cambodia,total_litres_of_pure_alcohol,2.2
+124,Cameroon,beer_portions,147.0
+125,Cameroon,vodka_portions,1.0
+126,Cameroon,wine_portions,4.0
+127,Cameroon,total_litres_of_pure_alcohol,5.8
+128,Canada,beer_portions,240.0
+129,Canada,vodka_portions,122.0
+130,Canada,wine_portions,100.0
+131,Canada,total_litres_of_pure_alcohol,8.2
+132,Central African Republic,beer_portions,17.0
+133,Central African Republic,vodka_portions,2.0
+134,Central African Republic,wine_portions,1.0
+135,Central African Republic,total_litres_of_pure_alcohol,1.8
+136,Chad,beer_portions,15.0
+137,Chad,vodka_portions,1.0
+138,Chad,wine_portions,1.0
+139,Chad,total_litres_of_pure_alcohol,0.4
+140,Chile,beer_portions,130.0
+141,Chile,vodka_portions,124.0
+142,Chile,wine_portions,172.0
+143,Chile,total_litres_of_pure_alcohol,7.6
+144,China,beer_portions,79.0
+145,China,vodka_portions,192.0
+146,China,wine_portions,8.0
+147,China,total_litres_of_pure_alcohol,5.0
+148,Colombia,beer_portions,159.0
+149,Colombia,vodka_portions,76.0
+150,Colombia,wine_portions,3.0
+151,Colombia,total_litres_of_pure_alcohol,4.2
+152,Comoros,beer_portions,1.0
+153,Comoros,vodka_portions,3.0
+154,Comoros,wine_portions,1.0
+155,Comoros,total_litres_of_pure_alcohol,0.1
+156,Congo,beer_portions,76.0
+157,Congo,vodka_portions,1.0
+158,Congo,wine_portions,9.0
+159,Congo,total_litres_of_pure_alcohol,1.7
+160,Cook Islands,beer_portions,0.0
+161,Cook Islands,vodka_portions,254.0
+162,Cook Islands,wine_portions,74.0
+163,Cook Islands,total_litres_of_pure_alcohol,5.9
+164,Costa Rica,beer_portions,149.0
+165,Costa Rica,vodka_portions,87.0
+166,Costa Rica,wine_portions,11.0
+167,Costa Rica,total_litres_of_pure_alcohol,4.4
+168,Croatia,beer_portions,230.0
+169,Croatia,vodka_portions,87.0
+170,Croatia,wine_portions,254.0
+171,Croatia,total_litres_of_pure_alcohol,10.2
+172,Cuba,beer_portions,93.0
+173,Cuba,vodka_portions,137.0
+174,Cuba,wine_portions,5.0
+175,Cuba,total_litres_of_pure_alcohol,4.2
+176,Cyprus,beer_portions,192.0
+177,Cyprus,vodka_portions,154.0
+178,Cyprus,wine_portions,113.0
+179,Cyprus,total_litres_of_pure_alcohol,8.2
+180,Czech Republic,beer_portions,361.0
+181,Czech Republic,vodka_portions,170.0
+182,Czech Republic,wine_portions,134.0
+183,Czech Republic,total_litres_of_pure_alcohol,11.8
+184,North Korea,beer_portions,0.0
+185,North Korea,vodka_portions,0.0
+186,North Korea,wine_portions,0.0
+187,North Korea,total_litres_of_pure_alcohol,0.0
+188,DR Congo,beer_portions,32.0
+189,DR Congo,vodka_portions,3.0
+190,DR Congo,wine_portions,1.0
+191,DR Congo,total_litres_of_pure_alcohol,2.3
+192,Denmark,beer_portions,224.0
+193,Denmark,vodka_portions,81.0
+194,Denmark,wine_portions,278.0
+195,Denmark,total_litres_of_pure_alcohol,10.4
+196,Djibouti,beer_portions,15.0
+197,Djibouti,vodka_portions,44.0
+198,Djibouti,wine_portions,3.0
+199,Djibouti,total_litres_of_pure_alcohol,1.1
+200,Dominica,beer_portions,52.0
+201,Dominica,vodka_portions,286.0
+202,Dominica,wine_portions,26.0
+203,Dominica,total_litres_of_pure_alcohol,6.6
+204,Dominican Republic,beer_portions,193.0
+205,Dominican Republic,vodka_portions,147.0
+206,Dominican Republic,wine_portions,9.0
+207,Dominican Republic,total_litres_of_pure_alcohol,6.2
+208,Ecuador,beer_portions,162.0
+209,Ecuador,vodka_portions,74.0
+210,Ecuador,wine_portions,3.0
+211,Ecuador,total_litres_of_pure_alcohol,4.2
+212,Egypt,beer_portions,6.0
+213,Egypt,vodka_portions,4.0
+214,Egypt,wine_portions,1.0
+215,Egypt,total_litres_of_pure_alcohol,0.2
+216,El Salvador,beer_portions,52.0
+217,El Salvador,vodka_portions,69.0
+218,El Salvador,wine_portions,2.0
+219,El Salvador,total_litres_of_pure_alcohol,2.2
+220,Equatorial Guinea,beer_portions,92.0
+221,Equatorial Guinea,vodka_portions,0.0
+222,Equatorial Guinea,wine_portions,233.0
+223,Equatorial Guinea,total_litres_of_pure_alcohol,5.8
+224,Eritrea,beer_portions,18.0
+225,Eritrea,vodka_portions,0.0
+226,Eritrea,wine_portions,0.0
+227,Eritrea,total_litres_of_pure_alcohol,0.5
+228,Estonia,beer_portions,224.0
+229,Estonia,vodka_portions,194.0
+230,Estonia,wine_portions,59.0
+231,Estonia,total_litres_of_pure_alcohol,9.5
+232,Ethiopia,beer_portions,20.0
+233,Ethiopia,vodka_portions,3.0
+234,Ethiopia,wine_portions,0.0
+235,Ethiopia,total_litres_of_pure_alcohol,0.7
+236,Fiji,beer_portions,77.0
+237,Fiji,vodka_portions,35.0
+238,Fiji,wine_portions,1.0
+239,Fiji,total_litres_of_pure_alcohol,2.0
+240,Finland,beer_portions,263.0
+241,Finland,vodka_portions,133.0
+242,Finland,wine_portions,97.0
+243,Finland,total_litres_of_pure_alcohol,10.0
+244,France,beer_portions,127.0
+245,France,vodka_portions,151.0
+246,France,wine_portions,370.0
+247,France,total_litres_of_pure_alcohol,11.8
+248,Gabon,beer_portions,347.0
+249,Gabon,vodka_portions,98.0
+250,Gabon,wine_portions,59.0
+251,Gabon,total_litres_of_pure_alcohol,8.9
+252,Gambia,beer_portions,8.0
+253,Gambia,vodka_portions,0.0
+254,Gambia,wine_portions,1.0
+255,Gambia,total_litres_of_pure_alcohol,2.4
+256,Georgia,beer_portions,52.0
+257,Georgia,vodka_portions,100.0
+258,Georgia,wine_portions,149.0
+259,Georgia,total_litres_of_pure_alcohol,5.4
+260,Germany,beer_portions,346.0
+261,Germany,vodka_portions,117.0
+262,Germany,wine_portions,175.0
+263,Germany,total_litres_of_pure_alcohol,11.3
+264,Ghana,beer_portions,31.0
+265,Ghana,vodka_portions,3.0
+266,Ghana,wine_portions,10.0
+267,Ghana,total_litres_of_pure_alcohol,1.8
+268,Greece,beer_portions,133.0
+269,Greece,vodka_portions,112.0
+270,Greece,wine_portions,218.0
+271,Greece,total_litres_of_pure_alcohol,8.3
+272,Grenada,beer_portions,199.0
+273,Grenada,vodka_portions,438.0
+274,Grenada,wine_portions,28.0
+275,Grenada,total_litres_of_pure_alcohol,11.9
+276,Guatemala,beer_portions,53.0
+277,Guatemala,vodka_portions,69.0
+278,Guatemala,wine_portions,2.0
+279,Guatemala,total_litres_of_pure_alcohol,2.2
+280,Guinea,beer_portions,9.0
+281,Guinea,vodka_portions,0.0
+282,Guinea,wine_portions,2.0
+283,Guinea,total_litres_of_pure_alcohol,0.2
+284,Guinea-Bissau,beer_portions,28.0
+285,Guinea-Bissau,vodka_portions,31.0
+286,Guinea-Bissau,wine_portions,21.0
+287,Guinea-Bissau,total_litres_of_pure_alcohol,2.5
+288,Guyana,beer_portions,93.0
+289,Guyana,vodka_portions,302.0
+290,Guyana,wine_portions,1.0
+291,Guyana,total_litres_of_pure_alcohol,7.1
+292,Haiti,beer_portions,1.0
+293,Haiti,vodka_portions,326.0
+294,Haiti,wine_portions,1.0
+295,Haiti,total_litres_of_pure_alcohol,5.9
+296,Honduras,beer_portions,69.0
+297,Honduras,vodka_portions,98.0
+298,Honduras,wine_portions,2.0
+299,Honduras,total_litres_of_pure_alcohol,3.0
+300,Hungary,beer_portions,234.0
+301,Hungary,vodka_portions,215.0
+302,Hungary,wine_portions,185.0
+303,Hungary,total_litres_of_pure_alcohol,11.3
+304,Iceland,beer_portions,233.0
+305,Iceland,vodka_portions,61.0
+306,Iceland,wine_portions,78.0
+307,Iceland,total_litres_of_pure_alcohol,6.6
+308,India,beer_portions,9.0
+309,India,vodka_portions,114.0
+310,India,wine_portions,0.0
+311,India,total_litres_of_pure_alcohol,2.2
+312,Indonesia,beer_portions,5.0
+313,Indonesia,vodka_portions,1.0
+314,Indonesia,wine_portions,0.0
+315,Indonesia,total_litres_of_pure_alcohol,0.1
+316,Iran,beer_portions,0.0
+317,Iran,vodka_portions,0.0
+318,Iran,wine_portions,0.0
+319,Iran,total_litres_of_pure_alcohol,0.0
+320,Iraq,beer_portions,9.0
+321,Iraq,vodka_portions,3.0
+322,Iraq,wine_portions,0.0
+323,Iraq,total_litres_of_pure_alcohol,0.2
+324,Ireland,beer_portions,313.0
+325,Ireland,vodka_portions,118.0
+326,Ireland,wine_portions,165.0
+327,Ireland,total_litres_of_pure_alcohol,11.4
+328,Israel,beer_portions,63.0
+329,Israel,vodka_portions,69.0
+330,Israel,wine_portions,9.0
+331,Israel,total_litres_of_pure_alcohol,2.5
+332,Italy,beer_portions,85.0
+333,Italy,vodka_portions,42.0
+334,Italy,wine_portions,237.0
+335,Italy,total_litres_of_pure_alcohol,6.5
+336,Jamaica,beer_portions,82.0
+337,Jamaica,vodka_portions,97.0
+338,Jamaica,wine_portions,9.0
+339,Jamaica,total_litres_of_pure_alcohol,3.4
+340,Japan,beer_portions,77.0
+341,Japan,vodka_portions,202.0
+342,Japan,wine_portions,16.0
+343,Japan,total_litres_of_pure_alcohol,7.0
+344,Jordan,beer_portions,6.0
+345,Jordan,vodka_portions,21.0
+346,Jordan,wine_portions,1.0
+347,Jordan,total_litres_of_pure_alcohol,0.5
+348,Kazakhstan,beer_portions,124.0
+349,Kazakhstan,vodka_portions,246.0
+350,Kazakhstan,wine_portions,12.0
+351,Kazakhstan,total_litres_of_pure_alcohol,6.8
+352,Kenya,beer_portions,58.0
+353,Kenya,vodka_portions,22.0
+354,Kenya,wine_portions,2.0
+355,Kenya,total_litres_of_pure_alcohol,1.8
+356,Kiribati,beer_portions,21.0
+357,Kiribati,vodka_portions,34.0
+358,Kiribati,wine_portions,1.0
+359,Kiribati,total_litres_of_pure_alcohol,1.0
+360,Kuwait,beer_portions,0.0
+361,Kuwait,vodka_portions,0.0
+362,Kuwait,wine_portions,0.0
+363,Kuwait,total_litres_of_pure_alcohol,0.0
+364,Kyrgyzstan,beer_portions,31.0
+365,Kyrgyzstan,vodka_portions,97.0
+366,Kyrgyzstan,wine_portions,6.0
+367,Kyrgyzstan,total_litres_of_pure_alcohol,2.4
+368,Laos,beer_portions,62.0
+369,Laos,vodka_portions,0.0
+370,Laos,wine_portions,123.0
+371,Laos,total_litres_of_pure_alcohol,6.2
+372,Latvia,beer_portions,281.0
+373,Latvia,vodka_portions,216.0
+374,Latvia,wine_portions,62.0
+375,Latvia,total_litres_of_pure_alcohol,10.5
+376,Lebanon,beer_portions,20.0
+377,Lebanon,vodka_portions,55.0
+378,Lebanon,wine_portions,31.0
+379,Lebanon,total_litres_of_pure_alcohol,1.9
+380,Lesotho,beer_portions,82.0
+381,Lesotho,vodka_portions,29.0
+382,Lesotho,wine_portions,0.0
+383,Lesotho,total_litres_of_pure_alcohol,2.8
+384,Liberia,beer_portions,19.0
+385,Liberia,vodka_portions,152.0
+386,Liberia,wine_portions,2.0
+387,Liberia,total_litres_of_pure_alcohol,3.1
+388,Libya,beer_portions,0.0
+389,Libya,vodka_portions,0.0
+390,Libya,wine_portions,0.0
+391,Libya,total_litres_of_pure_alcohol,0.0
+392,Lithuania,beer_portions,343.0
+393,Lithuania,vodka_portions,244.0
+394,Lithuania,wine_portions,56.0
+395,Lithuania,total_litres_of_pure_alcohol,12.9
+396,Luxembourg,beer_portions,236.0
+397,Luxembourg,vodka_portions,133.0
+398,Luxembourg,wine_portions,271.0
+399,Luxembourg,total_litres_of_pure_alcohol,11.4
+400,Madagascar,beer_portions,26.0
+401,Madagascar,vodka_portions,15.0
+402,Madagascar,wine_portions,4.0
+403,Madagascar,total_litres_of_pure_alcohol,0.8
+404,Malawi,beer_portions,8.0
+405,Malawi,vodka_portions,11.0
+406,Malawi,wine_portions,1.0
+407,Malawi,total_litres_of_pure_alcohol,1.5
+408,Malaysia,beer_portions,13.0
+409,Malaysia,vodka_portions,4.0
+410,Malaysia,wine_portions,0.0
+411,Malaysia,total_litres_of_pure_alcohol,0.3
+412,Maldives,beer_portions,0.0
+413,Maldives,vodka_portions,0.0
+414,Maldives,wine_portions,0.0
+415,Maldives,total_litres_of_pure_alcohol,0.0
+416,Mali,beer_portions,5.0
+417,Mali,vodka_portions,1.0
+418,Mali,wine_portions,1.0
+419,Mali,total_litres_of_pure_alcohol,0.6
+420,Malta,beer_portions,149.0
+421,Malta,vodka_portions,100.0
+422,Malta,wine_portions,120.0
+423,Malta,total_litres_of_pure_alcohol,6.6
+424,Marshall Islands,beer_portions,0.0
+425,Marshall Islands,vodka_portions,0.0
+426,Marshall Islands,wine_portions,0.0
+427,Marshall Islands,total_litres_of_pure_alcohol,0.0
+428,Mauritania,beer_portions,0.0
+429,Mauritania,vodka_portions,0.0
+430,Mauritania,wine_portions,0.0
+431,Mauritania,total_litres_of_pure_alcohol,0.0
+432,Mauritius,beer_portions,98.0
+433,Mauritius,vodka_portions,31.0
+434,Mauritius,wine_portions,18.0
+435,Mauritius,total_litres_of_pure_alcohol,2.6
+436,Mexico,beer_portions,238.0
+437,Mexico,vodka_portions,68.0
+438,Mexico,wine_portions,5.0
+439,Mexico,total_litres_of_pure_alcohol,5.5
+440,Micronesia,beer_portions,62.0
+441,Micronesia,vodka_portions,50.0
+442,Micronesia,wine_portions,18.0
+443,Micronesia,total_litres_of_pure_alcohol,2.3
+444,Monaco,beer_portions,0.0
+445,Monaco,vodka_portions,0.0
+446,Monaco,wine_portions,0.0
+447,Monaco,total_litres_of_pure_alcohol,0.0
+448,Mongolia,beer_portions,77.0
+449,Mongolia,vodka_portions,189.0
+450,Mongolia,wine_portions,8.0
+451,Mongolia,total_litres_of_pure_alcohol,4.9
+452,Montenegro,beer_portions,31.0
+453,Montenegro,vodka_portions,114.0
+454,Montenegro,wine_portions,128.0
+455,Montenegro,total_litres_of_pure_alcohol,4.9
+456,Morocco,beer_portions,12.0
+457,Morocco,vodka_portions,6.0
+458,Morocco,wine_portions,10.0
+459,Morocco,total_litres_of_pure_alcohol,0.5
+460,Mozambique,beer_portions,47.0
+461,Mozambique,vodka_portions,18.0
+462,Mozambique,wine_portions,5.0
+463,Mozambique,total_litres_of_pure_alcohol,1.3
+464,Myanmar,beer_portions,5.0
+465,Myanmar,vodka_portions,1.0
+466,Myanmar,wine_portions,0.0
+467,Myanmar,total_litres_of_pure_alcohol,0.1
+468,Namibia,beer_portions,376.0
+469,Namibia,vodka_portions,3.0
+470,Namibia,wine_portions,1.0
+471,Namibia,total_litres_of_pure_alcohol,6.8
+472,Nauru,beer_portions,49.0
+473,Nauru,vodka_portions,0.0
+474,Nauru,wine_portions,8.0
+475,Nauru,total_litres_of_pure_alcohol,1.0
+476,Nepal,beer_portions,5.0
+477,Nepal,vodka_portions,6.0
+478,Nepal,wine_portions,0.0
+479,Nepal,total_litres_of_pure_alcohol,0.2
+480,Netherlands,beer_portions,251.0
+481,Netherlands,vodka_portions,88.0
+482,Netherlands,wine_portions,190.0
+483,Netherlands,total_litres_of_pure_alcohol,9.4
+484,New Zealand,beer_portions,203.0
+485,New Zealand,vodka_portions,79.0
+486,New Zealand,wine_portions,175.0
+487,New Zealand,total_litres_of_pure_alcohol,9.3
+488,Nicaragua,beer_portions,78.0
+489,Nicaragua,vodka_portions,118.0
+490,Nicaragua,wine_portions,1.0
+491,Nicaragua,total_litres_of_pure_alcohol,3.5
+492,Niger,beer_portions,3.0
+493,Niger,vodka_portions,2.0
+494,Niger,wine_portions,1.0
+495,Niger,total_litres_of_pure_alcohol,0.1
+496,Nigeria,beer_portions,42.0
+497,Nigeria,vodka_portions,5.0
+498,Nigeria,wine_portions,2.0
+499,Nigeria,total_litres_of_pure_alcohol,9.1
+500,Niue,beer_portions,188.0
+501,Niue,vodka_portions,200.0
+502,Niue,wine_portions,7.0
+503,Niue,total_litres_of_pure_alcohol,7.0
+504,Norway,beer_portions,169.0
+505,Norway,vodka_portions,71.0
+506,Norway,wine_portions,129.0
+507,Norway,total_litres_of_pure_alcohol,6.7
+508,Oman,beer_portions,22.0
+509,Oman,vodka_portions,16.0
+510,Oman,wine_portions,1.0
+511,Oman,total_litres_of_pure_alcohol,0.7
+512,Pakistan,beer_portions,0.0
+513,Pakistan,vodka_portions,0.0
+514,Pakistan,wine_portions,0.0
+515,Pakistan,total_litres_of_pure_alcohol,0.0
+516,Palau,beer_portions,306.0
+517,Palau,vodka_portions,63.0
+518,Palau,wine_portions,23.0
+519,Palau,total_litres_of_pure_alcohol,6.9
+520,Panama,beer_portions,285.0
+521,Panama,vodka_portions,104.0
+522,Panama,wine_portions,18.0
+523,Panama,total_litres_of_pure_alcohol,7.2
+524,Papua New Guinea,beer_portions,44.0
+525,Papua New Guinea,vodka_portions,39.0
+526,Papua New Guinea,wine_portions,1.0
+527,Papua New Guinea,total_litres_of_pure_alcohol,1.5
+528,Paraguay,beer_portions,213.0
+529,Paraguay,vodka_portions,117.0
+530,Paraguay,wine_portions,74.0
+531,Paraguay,total_litres_of_pure_alcohol,7.3
+532,Peru,beer_portions,163.0
+533,Peru,vodka_portions,160.0
+534,Peru,wine_portions,21.0
+535,Peru,total_litres_of_pure_alcohol,6.1
+536,Philippines,beer_portions,71.0
+537,Philippines,vodka_portions,186.0
+538,Philippines,wine_portions,1.0
+539,Philippines,total_litres_of_pure_alcohol,4.6
+540,Poland,beer_portions,343.0
+541,Poland,vodka_portions,215.0
+542,Poland,wine_portions,56.0
+543,Poland,total_litres_of_pure_alcohol,10.9
+544,Portugal,beer_portions,194.0
+545,Portugal,vodka_portions,67.0
+546,Portugal,wine_portions,339.0
+547,Portugal,total_litres_of_pure_alcohol,11.0
+548,Qatar,beer_portions,1.0
+549,Qatar,vodka_portions,42.0
+550,Qatar,wine_portions,7.0
+551,Qatar,total_litres_of_pure_alcohol,0.9
+552,South Korea,beer_portions,140.0
+553,South Korea,vodka_portions,16.0
+554,South Korea,wine_portions,9.0
+555,South Korea,total_litres_of_pure_alcohol,9.8
+556,Moldova,beer_portions,109.0
+557,Moldova,vodka_portions,226.0
+558,Moldova,wine_portions,18.0
+559,Moldova,total_litres_of_pure_alcohol,6.3
+560,Romania,beer_portions,297.0
+561,Romania,vodka_portions,122.0
+562,Romania,wine_portions,167.0
+563,Romania,total_litres_of_pure_alcohol,10.4
+564,Russian Federation,beer_portions,247.0
+565,Russian Federation,vodka_portions,326.0
+566,Russian Federation,wine_portions,73.0
+567,Russian Federation,total_litres_of_pure_alcohol,11.5
+568,Rwanda,beer_portions,43.0
+569,Rwanda,vodka_portions,2.0
+570,Rwanda,wine_portions,0.0
+571,Rwanda,total_litres_of_pure_alcohol,6.8
+572,St. Kitts & Nevis,beer_portions,194.0
+573,St. Kitts & Nevis,vodka_portions,205.0
+574,St. Kitts & Nevis,wine_portions,32.0
+575,St. Kitts & Nevis,total_litres_of_pure_alcohol,7.7
+576,St. Lucia,beer_portions,171.0
+577,St. Lucia,vodka_portions,315.0
+578,St. Lucia,wine_portions,71.0
+579,St. Lucia,total_litres_of_pure_alcohol,10.1
+580,St. Vincent & the Grenadines,beer_portions,120.0
+581,St. Vincent & the Grenadines,vodka_portions,221.0
+582,St. Vincent & the Grenadines,wine_portions,11.0
+583,St. Vincent & the Grenadines,total_litres_of_pure_alcohol,6.3
+584,Samoa,beer_portions,105.0
+585,Samoa,vodka_portions,18.0
+586,Samoa,wine_portions,24.0
+587,Samoa,total_litres_of_pure_alcohol,2.6
+588,San Marino,beer_portions,0.0
+589,San Marino,vodka_portions,0.0
+590,San Marino,wine_portions,0.0
+591,San Marino,total_litres_of_pure_alcohol,0.0
+592,Sao Tome & Principe,beer_portions,56.0
+593,Sao Tome & Principe,vodka_portions,38.0
+594,Sao Tome & Principe,wine_portions,140.0
+595,Sao Tome & Principe,total_litres_of_pure_alcohol,4.2
+596,Saudi Arabia,beer_portions,0.0
+597,Saudi Arabia,vodka_portions,5.0
+598,Saudi Arabia,wine_portions,0.0
+599,Saudi Arabia,total_litres_of_pure_alcohol,0.1
+600,Senegal,beer_portions,9.0
+601,Senegal,vodka_portions,1.0
+602,Senegal,wine_portions,7.0
+603,Senegal,total_litres_of_pure_alcohol,0.3
+604,Serbia,beer_portions,283.0
+605,Serbia,vodka_portions,131.0
+606,Serbia,wine_portions,127.0
+607,Serbia,total_litres_of_pure_alcohol,9.6
+608,Seychelles,beer_portions,157.0
+609,Seychelles,vodka_portions,25.0
+610,Seychelles,wine_portions,51.0
+611,Seychelles,total_litres_of_pure_alcohol,4.1
+612,Sierra Leone,beer_portions,25.0
+613,Sierra Leone,vodka_portions,3.0
+614,Sierra Leone,wine_portions,2.0
+615,Sierra Leone,total_litres_of_pure_alcohol,6.7
+616,Singapore,beer_portions,60.0
+617,Singapore,vodka_portions,12.0
+618,Singapore,wine_portions,11.0
+619,Singapore,total_litres_of_pure_alcohol,1.5
+620,Slovakia,beer_portions,196.0
+621,Slovakia,vodka_portions,293.0
+622,Slovakia,wine_portions,116.0
+623,Slovakia,total_litres_of_pure_alcohol,11.4
+624,Slovenia,beer_portions,270.0
+625,Slovenia,vodka_portions,51.0
+626,Slovenia,wine_portions,276.0
+627,Slovenia,total_litres_of_pure_alcohol,10.6
+628,Solomon Islands,beer_portions,56.0
+629,Solomon Islands,vodka_portions,11.0
+630,Solomon Islands,wine_portions,1.0
+631,Solomon Islands,total_litres_of_pure_alcohol,1.2
+632,Somalia,beer_portions,0.0
+633,Somalia,vodka_portions,0.0
+634,Somalia,wine_portions,0.0
+635,Somalia,total_litres_of_pure_alcohol,0.0
+636,South Africa,beer_portions,225.0
+637,South Africa,vodka_portions,76.0
+638,South Africa,wine_portions,81.0
+639,South Africa,total_litres_of_pure_alcohol,8.2
+640,Spain,beer_portions,284.0
+641,Spain,vodka_portions,157.0
+642,Spain,wine_portions,112.0
+643,Spain,total_litres_of_pure_alcohol,10.0
+644,Sri Lanka,beer_portions,16.0
+645,Sri Lanka,vodka_portions,104.0
+646,Sri Lanka,wine_portions,0.0
+647,Sri Lanka,total_litres_of_pure_alcohol,2.2
+648,Sudan,beer_portions,8.0
+649,Sudan,vodka_portions,13.0
+650,Sudan,wine_portions,0.0
+651,Sudan,total_litres_of_pure_alcohol,1.7
+652,Suriname,beer_portions,128.0
+653,Suriname,vodka_portions,178.0
+654,Suriname,wine_portions,7.0
+655,Suriname,total_litres_of_pure_alcohol,5.6
+656,Swaziland,beer_portions,90.0
+657,Swaziland,vodka_portions,2.0
+658,Swaziland,wine_portions,2.0
+659,Swaziland,total_litres_of_pure_alcohol,4.7
+660,Sweden,beer_portions,152.0
+661,Sweden,vodka_portions,60.0
+662,Sweden,wine_portions,186.0
+663,Sweden,total_litres_of_pure_alcohol,7.2
+664,Switzerland,beer_portions,185.0
+665,Switzerland,vodka_portions,100.0
+666,Switzerland,wine_portions,280.0
+667,Switzerland,total_litres_of_pure_alcohol,10.2
+668,Syria,beer_portions,5.0
+669,Syria,vodka_portions,35.0
+670,Syria,wine_portions,16.0
+671,Syria,total_litres_of_pure_alcohol,1.0
+672,Tajikistan,beer_portions,2.0
+673,Tajikistan,vodka_portions,15.0
+674,Tajikistan,wine_portions,0.0
+675,Tajikistan,total_litres_of_pure_alcohol,0.3
+676,Thailand,beer_portions,99.0
+677,Thailand,vodka_portions,258.0
+678,Thailand,wine_portions,1.0
+679,Thailand,total_litres_of_pure_alcohol,6.4
+680,Macedonia,beer_portions,106.0
+681,Macedonia,vodka_portions,27.0
+682,Macedonia,wine_portions,86.0
+683,Macedonia,total_litres_of_pure_alcohol,3.9
+684,Timor-Leste,beer_portions,1.0
+685,Timor-Leste,vodka_portions,1.0
+686,Timor-Leste,wine_portions,4.0
+687,Timor-Leste,total_litres_of_pure_alcohol,0.1
+688,Togo,beer_portions,36.0
+689,Togo,vodka_portions,2.0
+690,Togo,wine_portions,19.0
+691,Togo,total_litres_of_pure_alcohol,1.3
+692,Tonga,beer_portions,36.0
+693,Tonga,vodka_portions,21.0
+694,Tonga,wine_portions,5.0
+695,Tonga,total_litres_of_pure_alcohol,1.1
+696,Trinidad & Tobago,beer_portions,197.0
+697,Trinidad & Tobago,vodka_portions,156.0
+698,Trinidad & Tobago,wine_portions,7.0
+699,Trinidad & Tobago,total_litres_of_pure_alcohol,6.4
+700,Tunisia,beer_portions,51.0
+701,Tunisia,vodka_portions,3.0
+702,Tunisia,wine_portions,20.0
+703,Tunisia,total_litres_of_pure_alcohol,1.3
+704,Turkey,beer_portions,51.0
+705,Turkey,vodka_portions,22.0
+706,Turkey,wine_portions,7.0
+707,Turkey,total_litres_of_pure_alcohol,1.4
+708,Turkmenistan,beer_portions,19.0
+709,Turkmenistan,vodka_portions,71.0
+710,Turkmenistan,wine_portions,32.0
+711,Turkmenistan,total_litres_of_pure_alcohol,2.2
+712,Tuvalu,beer_portions,6.0
+713,Tuvalu,vodka_portions,41.0
+714,Tuvalu,wine_portions,9.0
+715,Tuvalu,total_litres_of_pure_alcohol,1.0
+716,Uganda,beer_portions,45.0
+717,Uganda,vodka_portions,9.0
+718,Uganda,wine_portions,0.0
+719,Uganda,total_litres_of_pure_alcohol,8.3
+720,Ukraine,beer_portions,206.0
+721,Ukraine,vodka_portions,237.0
+722,Ukraine,wine_portions,45.0
+723,Ukraine,total_litres_of_pure_alcohol,8.9
+724,United Arab Emirates,beer_portions,16.0
+725,United Arab Emirates,vodka_portions,135.0
+726,United Arab Emirates,wine_portions,5.0
+727,United Arab Emirates,total_litres_of_pure_alcohol,2.8
+728,United Kingdom,beer_portions,219.0
+729,United Kingdom,vodka_portions,126.0
+730,United Kingdom,wine_portions,195.0
+731,United Kingdom,total_litres_of_pure_alcohol,10.4
+732,Tanzania,beer_portions,36.0
+733,Tanzania,vodka_portions,6.0
+734,Tanzania,wine_portions,1.0
+735,Tanzania,total_litres_of_pure_alcohol,5.7
+736,USA,beer_portions,249.0
+737,USA,vodka_portions,158.0
+738,USA,wine_portions,84.0
+739,USA,total_litres_of_pure_alcohol,8.7
+740,Uruguay,beer_portions,115.0
+741,Uruguay,vodka_portions,35.0
+742,Uruguay,wine_portions,220.0
+743,Uruguay,total_litres_of_pure_alcohol,6.6
+744,Uzbekistan,beer_portions,25.0
+745,Uzbekistan,vodka_portions,101.0
+746,Uzbekistan,wine_portions,8.0
+747,Uzbekistan,total_litres_of_pure_alcohol,2.4
+748,Vanuatu,beer_portions,21.0
+749,Vanuatu,vodka_portions,18.0
+750,Vanuatu,wine_portions,11.0
+751,Vanuatu,total_litres_of_pure_alcohol,0.9
+752,Venezuela,beer_portions,333.0
+753,Venezuela,vodka_portions,100.0
+754,Venezuela,wine_portions,3.0
+755,Venezuela,total_litres_of_pure_alcohol,7.7
+756,Vietnam,beer_portions,111.0
+757,Vietnam,vodka_portions,2.0
+758,Vietnam,wine_portions,1.0
+759,Vietnam,total_litres_of_pure_alcohol,2.0
+760,Yemen,beer_portions,6.0
+761,Yemen,vodka_portions,0.0
+762,Yemen,wine_portions,0.0
+763,Yemen,total_litres_of_pure_alcohol,0.1
+764,Zambia,beer_portions,32.0
+765,Zambia,vodka_portions,19.0
+766,Zambia,wine_portions,4.0
+767,Zambia,total_litres_of_pure_alcohol,2.5
+768,Zimbabwe,beer_portions,64.0
+769,Zimbabwe,vodka_portions,18.0
+770,Zimbabwe,wine_portions,4.0
+771,Zimbabwe,total_litres_of_pure_alcohol,4.7
